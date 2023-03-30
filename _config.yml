@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
+title: KHJ3535 Blog
+subtitle: KHJ3535 info
+email: rlagudwns3555@gmail.com
+description: KHJ3535 Blog's
+baseurl:
+url: http://khj3535.github.io
+author: KHJ3535
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
 zip_code: 55555
 country: United States of America
-phone: (716) 555-5555
+phone: 010-2592-3533
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
