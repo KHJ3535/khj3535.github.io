@@ -1,0 +1,5 @@
+_config.yml --> 기본 설정파일
+_includes : 재사용할 수 있는 파일을 담은 디렉토리 {% include file 이름.확장자%}
+
+_layouts : 각 포스트별 레이아웃파일이 저장되어 있음
+_posts : 블로그 컨텐츠
